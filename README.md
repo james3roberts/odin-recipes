@@ -15,3 +15,10 @@ Now that I have that figured out... on to the project.
 Just finished iteration 1
 Built a boiler plate from memory and added a h1 tag.
 Going to commit all of this and then start the next one. 
+
+Just finished iteration 2
+created a new directory
+created a new file in that directory 
+linked the new file to the oringinal file.
+learned how to move up directorys from the command line **cd .. ** must remember
+also learned that I can add changed files from above the current directory with ** ../ ** must remember
