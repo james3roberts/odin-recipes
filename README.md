@@ -11,3 +11,7 @@ So quick update. I thought everything was working good and I remembered
 all of the commands to push this to github but it is not showing up there.
 Well silly me I forgot to push it. I only commited it
 Now that I have that figured out... on to the project. 
+
+Just finished iteration 1
+Built a boiler plate from memory and added a h1 tag.
+Going to commit all of this and then start the next one. 
