@@ -9,3 +9,5 @@ will be able to learn from this project. I will update this when I
 am finished.
 So quick update. I thought everything was working good and I remembered
 all of the commands to push this to github but it is not showing up there.
+Well silly me I forgot to push it. I only commited it
+Now that I have that figured out... on to the project. 
