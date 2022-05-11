@@ -22,3 +22,12 @@ created a new file in that directory
 linked the new file to the oringinal file.
 learned how to move up directorys from the command line **cd .. ** must remember
 also learned that I can add changed files from above the current directory with ** ../ ** must remember
+
+Just finished with iteration 3
+Added an image to the new file
+Added headers to the new file
+Added ordered list to the new file
+Added unordered list to the new file
+Learned that the .. are used to show the previous levels in the folder to access the correct location. 
+I spent about half an hour trying to figure out why my picturew would not load. However that is much simpler
+than spelling out every file name. 
