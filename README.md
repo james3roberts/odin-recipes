@@ -31,3 +31,8 @@ Added unordered list to the new file
 Learned that the .. are used to show the previous levels in the folder to access the correct location. 
 I spent about half an hour trying to figure out why my picturew would not load. However that is much simpler
 than spelling out every file name. 
+
+Just finished with iteration 4.
+Nothing new to add from what I learned. Just got a bit more reps in. 
+Nothing beats practice. 
+Ready to move on and see what is next to learn. 
